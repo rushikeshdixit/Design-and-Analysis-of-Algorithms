@@ -1,5 +1,5 @@
 # Design-and-Analysis-of-Algorithms
-Implemention of Algorithms are as follows:
+Implementation of Algorithms are as follows:
 1. Worst Case Linear Time (via Median of Medians)
 2. Expected Linear Time to find Kth Selection
 3. Heap Sort
